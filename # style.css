@@ -17,4 +17,19 @@ header {
     }
     .chamada-texto {
       marigin-right: 5%;
+    } h1 
+     font-size: 40px;
+   }
+ p {
+    font-size: 20px;
+    ing {
+        height: 200px;
     }
+.categoria-videos {
+   display:videos {
+   overflow: flex;
+   gap: 10px; 
+   .categoria {
+    padding- lift: 20px;
+    padding-tight:20px;
+   }
