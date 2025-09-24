@@ -28,9 +28,10 @@ header {
         height: 200px;
     }
 .categoria-videos {
-   display:videos {
+   display:videos 
    overflow: flex;
-   gap: 10px; 
+   gap: 10px;
+} 
    .categoria {
     padding- lift: 20px;
     padding-tight:20px;
