@@ -33,3 +33,15 @@ header {
     padding- lift: 20px;
     padding-tight:20px;
    }
+   .categoria-videos img {
+    opacity: 0.5,
+    height: 200px;
+   }
+   .categoria-videos img:houver {
+    opacity: 1.;
+    border: 3px solid green;
+   }
+   .categoria h2 {
+     color: rgb(42, 122, 228);
+   }
+   
