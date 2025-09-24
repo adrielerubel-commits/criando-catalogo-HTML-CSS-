@@ -2,6 +2,8 @@ body {
     color:white;
     background: black;
     margin: opx;
+    font-family:"chakra petch",sans-serif;
+    margin-botton: 100px;
 }
 header {
     border-bottom: solid 2px rgb(42,122, 228);
@@ -44,4 +46,3 @@ header {
    .categoria h2 {
      color: rgb(42, 122, 228);
    }
-   
